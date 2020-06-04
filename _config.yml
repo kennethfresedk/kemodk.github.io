@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -50,3 +51,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+=======
+theme: jekyll-theme-hacker
+title: Kenneth Mortensens blog
+>>>>>>> 989e3a27814a3c0a3f8dc53d9a5f311fd57c58d1
