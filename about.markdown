@@ -4,10 +4,15 @@ title: About
 permalink: /about/
 ---
 
-My name is Kenneth Mortensen. I work as an DevOps Enginer for Clever.
-Currently I am mainly working with Azure, so my blog will primarily be focusing on this.
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find me on LinkedIn here:
-[LinkedIn](linkedin.com/in/kennethmortensendk/)
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
 
-I am currently working on my Github so stay tuned for examples.
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
+
+
+[jekyll-organization]: https://github.com/jekyll
